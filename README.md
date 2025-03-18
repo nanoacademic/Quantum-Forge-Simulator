@@ -1,73 +1,62 @@
 # Quantum-Forge-Simulator
 
-Welcome to Quantum-Forge-Simulator (QFS), an advanced graphical user interface designed to facilitate atomistic calculations using RESCU and NanoDCAL—two powerful computational tools developed by Nanoacademic Technologies.
+**Quantum-Forge-Simulator (QFS)** is a cutting-edge **graphical user interface (GUI)** designed to streamline and enhance **atomistic calculations** powered by **RESCU** and **NanoDCAL**, two flagship computational physics software solutions developed by **Nanoacademic**.
 
-About Quantum-Forge-Simulator
+## Overview
+**Quantum-Forge-Simulator** provides an intuitive and powerful environment for researchers and engineers working in **material science, quantum transport, and computational physics**. By integrating **RESCU** (a Density Functional Theory solver) and **NanoDCAL** (a quantum transport calculator), QFS enables users to efficiently conduct **advanced simulations and material property analyses**.
 
-Quantum-Forge-Simulator is a GUI-based simulation environment that enables users to perform complex quantum and electronic structure calculations. It integrates RESCU, a density functional theory (DFT) solver, and NanoDCAL, a quantum transport modeling software, into a streamlined and user-friendly platform.
+### Key Features
+-  **Seamless GUI** for setting up and running atomistic calculations.
+-  **Integration with RESCU & NanoDCAL**, provided the user has the required licenses.
+-  **Support for Density Functional Theory (DFT) calculations** using RESCU.
+-  **Quantum transport simulations** via the Non-Equilibrium Green’s Function (NEGF) formalism in NanoDCAL.
+-  **Cross-platform support** for Windows and Linux (depending on licensing and system requirements).
 
-Key Features
+---
 
-Intuitive graphical interface for configuring and executing DFT and quantum transport calculations.
+## Getting Started
+To download the latest version of **Quantum-Forge-Simulator**, visit our **[Releases Page](https://github.com/nanoacademic/Quantum-Forge-Simulator/releases/)** and select the version appropriate for your operating system.
 
-Seamless integration of RESCU and NanoDCAL (requires valid licenses).
+For **installation and setup instructions**, please refer to our **[user guide](https://github.com/nanoacademic/Quantum-Forge-Simulator/wiki).**
 
-Support for a wide range of quantum materials simulations.
+---
 
-Advanced visualization and analysis tools.
+## About RESCU
+### **What is RESCU?**
+**RESCU** (Real-space Electronic Structure Code for the Universe) is a powerful **Density Functional Theory (DFT) solver** based on the **Kohn-Sham (KS) formalism**. It utilizes real-space grids and specialized algorithms to achieve **highly scalable and efficient electronic structure calculations**.
 
-Built-in job management system for handling multiple calculations efficiently.
+### **Key Capabilities**
+- **DFT Calculations:** Supports **LDA, GGA, and hybrid functionals**.
+- **Parallel Computing:** Optimized for **multi-core architectures and GPUs**.
+- **Pseudopotential Database:** Provides a robust set of **norm-conserving pseudopotentials**.
+- **Advanced Simulation Tools:** Includes **Brillouin zone sampling, projected density of states (PDOS), Mulliken charge analysis, and frozen phonon calculations**.
 
-Getting Started
+For more details, refer to the **official RESCU documentation**.
 
-To download the latest version of Quantum-Forge-Simulator, visit our Releases Page and select the appropriate version for your operating system.
+---
 
-System Requirements
+## About NanoDCAL
+### **What is NanoDCAL?**
+**NanoDCAL** is a **quantum transport simulator** designed for **nanostructures**, enabling first-principles modeling of **charge and spin transport** using the **Non-Equilibrium Green’s Function (NEGF) formalism**.
 
-A compatible Windows or Linux system.
+### **Key Capabilities**
+- **Quantum Transport Modeling:** Calculates **I-V curves, conductance, and spin-polarized transport**.
+- **NEGF-SCF Methodology:** Self-consistent field calculations within the **NEGF framework**.
+- **Multi-Probe Device Simulations:** Supports **0-probe (molecules), 1-probe (surfaces), and 2-probe (device) structures**.
+- **Parallelized Performance:** Optimized for **distributed computing**.
 
-A valid license for RESCU and/or NanoDCAL (if running calculations).
+For further information, refer to the **official NanoDCAL documentation**.
 
-Recommended: 64-bit processor, 8GB RAM or more, dedicated GPU for acceleration.
+---
 
-Integrated Calculation Software
+## Support & Issues
+If you encounter any issues or have feedback regarding **Quantum-Forge-Simulator**, please report them through **JIRA**.
 
-RESCU – Density Functional Theory Solver
+For technical support, reach out to **Nanoacademic** via our **official support channels**.
 
-RESCU is a powerful DFT solver based on the Kohn-Sham formalism. It enables researchers to simulate electronic structures, material properties, and advanced quantum phenomena using real-space discretization. Key features include:
+---
 
-Support for LDA, GGA, meta-GGA, hybrid functionals.
+## License & Copyright
+**Quantum-Forge-Simulator** is **proprietary software** developed by **Nanoacademic**. Users must have valid licenses for **RESCU** and **NanoDCAL** to utilize the full capabilities of the software.
 
-Parallelized computations with GPU acceleration.
-
-Accurate Bravais lattice symmetry detection.
-
-Calculation of band structures, density of states (DOS), and phonon properties.
-
-Advanced pseudopotential library for LDA/GGA approximations.
-
-NanoDCAL – Quantum Transport Modeling
-
-NanoDCAL is a state-of-the-art quantum transport simulation software based on the Non-Equilibrium Green’s Function (NEGF) formalism. It provides:
-
-Atomistic modeling of nanodevices, molecules, and crystals.
-
-Self-consistent DFT-NEGF calculations.
-
-Simulation of magneto-transport, spintronics, and tunneling effects.
-
-Multi-probe transport calculations for complex nanoscale devices.
-
-Full parallelization for high-performance computing environments.
-
-Support & Feedback
-
-For any issues, questions, or feature requests, please report them via Jira at Nanoacademic Jira Support.
-
-If you require technical assistance or licensing information, please contact us via Nanoacademic Technologies.
-
-License & Copyright
-
-Quantum-Forge-Simulator and its integrated tools are developed by Nanoacademic Technologies. Users must have a valid RESCU and/or NanoDCAL license to execute calculations.
-
-© 2025 Nanoacademic Technologies. All rights reserved.
+📅 **© 2025 Nanoacademic Technologies. All rights reserved.**
