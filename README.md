@@ -10,7 +10,7 @@
 -  **Integration with RESCU & NanoDCAL**, provided the user has the required licenses.
 -  **Support for Density Functional Theory (DFT) calculations** using RESCU.
 -  **Quantum transport simulations** via the Non-Equilibrium Green’s Function (NEGF) formalism in NanoDCAL.
--  **Cross-platform support** for Windows and Linux (depending on licensing and system requirements).
+-  **Cross-platform support** for Windows and Linux.
 
 ---
 
