@@ -17,8 +17,6 @@
 ## Getting Started
 To download the latest version of **Quantum-Forge-Simulator**, visit our **[Releases Page](https://github.com/nanoacademic/Quantum-Forge-Simulator/releases/)** and select the version appropriate for your operating system.
 
-For **installation and setup instructions**, please refer to our **[user guide](https://github.com/nanoacademic/Quantum-Forge-Simulator/wiki).**
-
 ---
 
 ## About RESCU
@@ -59,4 +57,4 @@ For technical support, reach out to **Nanoacademic** via our **official support 
 ## License & Copyright
 **Quantum-Forge-Simulator** is **proprietary software** developed by **Nanoacademic**. Users must have valid licenses for **RESCU** and **NanoDCAL** to utilize the full capabilities of the software.
 
-📅 **© 2025 Nanoacademic Technologies. All rights reserved.**
+ **© 2025 Nanoacademic Technologies. All rights reserved.**
