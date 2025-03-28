@@ -5,6 +5,9 @@
 ## Overview
 **Quantum-Forge-Simulator** provides an intuitive and powerful environment for researchers and engineers working in **material science, quantum transport, and computational physics**. By integrating **RESCU** (a Density Functional Theory solver) and **NanoDCAL** (a quantum transport calculator), QFS enables users to efficiently conduct **advanced simulations and material property analyses**.
 
+## To Get Started
+To download the **Quantum-Forge-Simulator software**, simply navigate to the **Releases** page of this repository (https://github.com/nanoacademic/Quantum-Forge-Simulator/releases). In this page, you should see the latest release version at the top with the label "Latest". In this section, you will find the .exe version (Windows) and the .AppImage version (Linux). Download these executables and run them to use **Quantum-Forge-Simulator software**.
+
 ### Key Features
 -  **Seamless GUI** for setting up and running atomistic calculations.
 -  **Integration with RESCU & NanoDCAL**, provided the user has the required licenses.
